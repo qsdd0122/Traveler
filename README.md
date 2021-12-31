@@ -2,10 +2,15 @@
 # Spring framework 이용한 여행 플래너 웹 애플리케이션
 
 ● 스프링 레거시 프로젝트로 작성
+
 ● 스프링 MVC 기반으로 CRUD 구현
+
 ● Oracle DB를 사용하였으며 MyBatis로 매핑
+
 ● 웹 어플리케이션을 구동하기 위한 WAS로 Apache Tomcat을 선택
+
 ● JSP로 View 구성, Ajax로 데이터 통신
+
 
 시스템 구현 내용
 
